@@ -1,2 +1,2 @@
 # db_mahasiswa
-Sample Database Mahasiswa
+Sample Database 100 Data Mahasiswa
